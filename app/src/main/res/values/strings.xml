@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pixels to Pallettes</string>
+    <string name="color_hint">rrr ggg bbb</string>
+</resources>
